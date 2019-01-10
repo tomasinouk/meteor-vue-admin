@@ -3,7 +3,7 @@
     <VCardTitle primary-title>
       <div>
         <h2 class="headline mb-0">
-          Cloudspider Admin
+          Golden Door Admin
         </h2>
         <p>Welcome! Please login first</p>
       </div>

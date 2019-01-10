@@ -6,7 +6,7 @@
     fixed
   >
     <VToolbarSideIcon @click.stop="toggleDrawer" />
-    <VToolbarTitle>Cloudspider - Admin</VToolbarTitle>
+    <VToolbarTitle>Golden Door - Admin</VToolbarTitle>
 
     <slot name="main" />
 
